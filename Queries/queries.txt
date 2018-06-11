@@ -1,0 +1,750 @@
+<top>
+<num>51</num><title>
+Airbus Subsidies 
+</title>
+</top>
+<top>
+<num>52</num><title>
+South African Sanctions 
+</title>
+</top>
+<top>
+<num>53</num><title>
+Leveraged Buyouts 
+</title>
+</top>
+<top>
+<num>54</num><title>
+Satellite Launch Contracts 
+</title>
+</top>
+<top>
+<num>55</num><title>
+Insider Trading 
+</title>
+</top>
+<top>
+<num>56</num><title>
+Prime Lending Rate Moves Predictions 
+</title>
+</top>
+<top>
+<num>57</num><title>
+MCI 
+</title>
+</top>
+<top>
+<num>58</num><title>
+Rail Strikes 
+</title>
+</top>
+<top>
+<num>59</num><title>
+Weather Related Fatalities 
+</title>
+</top>
+<top>
+<num>60</num><title>
+Merit Pay vs Seniority 
+</title>
+</top>
+<top>
+<num>61</num><title>
+Israeli Role in Iran Contra Affair 
+</title>
+</top>
+<top>
+<num>62</num><title>
+Military Coups D etat 
+</title>
+</top>
+<top>
+<num>63</num><title>
+Machine Translation 
+</title>
+</top>
+<top>
+<num>64</num><title>
+Hostage Taking 
+</title>
+</top>
+<top>
+<num>65</num><title>
+Information Retrieval Systems 
+</title>
+</top>
+<top>
+<num>66</num><title>
+Natural Language Processing 
+</title>
+</top>
+<top>
+<num>67</num><title>
+Politically Motivated Civil Disturbances 
+</title>
+</top>
+<top>
+<num>68</num><title>
+Health Hazards from Fine Diameter Fibers 
+</title>
+</top>
+<top>
+<num>69</num><title>
+Attempts to Revive the SALT II Treaty 
+</title>
+</top>
+<top>
+<num>70</num><title>
+Surrogate Motherhood 
+</title>
+</top>
+<top>
+<num>71</num><title>
+Border Incursions 
+</title>
+</top>
+<top>
+<num>72</num><title>
+Demographic Shifts in the US 
+</title>
+</top>
+<top>
+<num>73</num><title>
+Demographic Shifts across National Boundaries 
+</title>
+</top>
+<top>
+<num>74</num><title>
+Conflicting Policy 
+</title>
+</top>
+<top>
+<num>75</num><title>
+Automation 
+</title>
+</top>
+<top>
+<num>76</num><title>
+US Constitution Original Intent 
+</title>
+</top>
+<top>
+<num>77</num><title>
+Poaching 
+</title>
+</top>
+<top>
+<num>78</num><title>
+Greenpeace 
+</title>
+</top>
+<top>
+<num>79</num><title>
+FRG Political Party Positions 
+</title>
+</top>
+<top>
+<num>80</num><title>
+Presidential Candidates Platforms 
+</title>
+</top>
+<top>
+<num>81</num><title>
+Financial crunch for televangelists in the wake of the PTL scandal 
+</title>
+</top>
+<top>
+<num>82</num><title>
+Genetic Engineering 
+</title>
+</top>
+<top>
+<num>83</num><title>
+Measures to Protect the Atmosphere 
+</title>
+</top>
+<top>
+<num>84</num><title>
+Alternative renewable Energy Plant Equipment Installation 
+</title>
+</top>
+<top>
+<num>85</num><title>
+Official Corruption 
+</title>
+</top>
+<top>
+<num>86</num><title>
+Bank Failures 
+</title>
+</top>
+<top>
+<num>87</num><title>
+Criminal Actions Against Officers of Failed Financial Institutions 
+</title>
+</top>
+<top>
+<num>88</num><title>
+Crude Oil Price Trends 
+</title>
+</top>
+<top>
+<num>89</num><title>
+Downstream Investments by OPEC Member States 
+</title>
+</top>
+<top>
+<num>90</num><title>
+Data on Proven Reserves of Oil Natural Gas Producers 
+</title>
+</top>
+<top>
+<num>91</num><title>
+US Army Acquisition of Advanced Weapons Systems 
+</title>
+</top>
+<top>
+<num>92</num><title>
+International Military Equipment Sales 
+</title>
+</top>
+<top>
+<num>93</num><title>
+What Backing Does the National Rifle Association Have 
+</title>
+</top>
+<top>
+<num>94</num><title>
+Computer aided Crime 
+</title>
+</top>
+<top>
+<num>95</num><title>
+Computer aided Crime Detection 
+</title>
+</top>
+<top>
+<num>96</num><title>
+Computer Aided Medical Diagnosis 
+</title>
+</top>
+<top>
+<num>97</num><title>
+Fiber Optics Applications 
+</title>
+</top>
+<top>
+<num>98</num><title>
+Fiber Optics Equipment Manufacturers 
+</title>
+</top>
+<top>
+<num>99</num><title>
+Iran Contra Affair 
+</title>
+</top>
+<top>
+<num>100</num><title>
+Controlling the Transfer of High Technology 
+</title>
+</top>
+<top>
+<num>101</num><title>
+Design of the Star Wars Anti missile Defense System 
+</title>
+</top>
+<top>
+<num>102</num><title>
+Laser Research Applicable to the US s Strategic Defense Initiative 
+</title>
+</top>
+<top>
+<num>103</num><title>
+Welfare Reform 
+</title>
+</top>
+<top>
+<num>104</num><title>
+Catastrophic Health Insurance 
+</title>
+</top>
+<top>
+<num>105</num><title>
+Black Monday 
+</title>
+</top>
+<top>
+<num>106</num><title>
+US Control of Insider Trading 
+</title>
+</top>
+<top>
+<num>107</num><title>
+Japanese Regulation of Insider Trading 
+</title>
+</top>
+<top>
+<num>108</num><title>
+Japanese Protectionist Measures 
+</title>
+</top>
+<top>
+<num>109</num><title>
+Find Innovative Companies 
+</title>
+</top>
+<top>
+<num>110</num><title>
+Black Resistance Against the South African Government 
+</title>
+</top>
+<top>
+<num>111</num><title>
+Nuclear Proliferation 
+</title>
+</top>
+<top>
+<num>112</num><title>
+Funding Biotechnology 
+</title>
+</top>
+<top>
+<num>113</num><title>
+New Space Satellite Applications 
+</title>
+</top>
+<top>
+<num>114</num><title>
+Non commercial Satellite Launches 
+</title>
+</top>
+<top>
+<num>115</num><title>
+Impact of the Immigration Law 
+</title>
+</top>
+<top>
+<num>116</num><title>
+Generic Drug Substitutions 
+</title>
+</top>
+<top>
+<num>117</num><title>
+Capacity of the US Cellular Telephone Network 
+</title>
+</top>
+<top>
+<num>118</num><title>
+International Terrorists 
+</title>
+</top>
+<top>
+<num>119</num><title>
+Actions Against International Terrorists 
+</title>
+</top>
+<top>
+<num>120</num><title>
+Economic Impact of International Terrorism 
+</title>
+</top>
+<top>
+<num>121</num><title>
+Death from Cancer 
+</title>
+</top>
+<top>
+<num>122</num><title>
+RDT E of New Cancer Fighting Drugs 
+</title>
+</top>
+<top>
+<num>123</num><title>
+Research into Control of Carcinogens 
+</title>
+</top>
+<top>
+<num>124</num><title>
+Alternatives to Traditional Cancer Therapies 
+</title>
+</top>
+<top>
+<num>125</num><title>
+Anti smoking Actions by Government 
+</title>
+</top>
+<top>
+<num>126</num><title>
+Medical Ethics and Modern Technology 
+</title>
+</top>
+<top>
+<num>127</num><title>
+US USSR Arms Control Agreements 
+</title>
+</top>
+<top>
+<num>128</num><title>
+Privatization of State Assets 
+</title>
+</top>
+<top>
+<num>129</num><title>
+Soviet Spying on the US 
+</title>
+</top>
+<top>
+<num>130</num><title>
+Jewish Emigration and US USSR Relations 
+</title>
+</top>
+<top>
+<num>131</num><title>
+McDonnell Douglas Contracts for Military Aircraft 
+</title>
+</top>
+<top>
+<num>132</num><title>
+Stealth Aircraft 
+</title>
+</top>
+<top>
+<num>133</num><title>
+Hubble Space Telescope 
+</title>
+</top>
+<top>
+<num>134</num><title>
+The Human Genome Project 
+</title>
+</top>
+<top>
+<num>135</num><title>
+Possible Contributions of Gene Mapping to Medicine 
+</title>
+</top>
+<top>
+<num>136</num><title>
+Diversification by Pacific Telesis 
+</title>
+</top>
+<top>
+<num>137</num><title>
+Expansion in the US Theme Park Industry 
+</title>
+</top>
+<top>
+<num>138</num><title>
+Iranian Support for Lebanese Hostage takers 
+</title>
+</top>
+<top>
+<num>139</num><title>
+Iran s Islamic Revolution Domestic and Foreign Social Consequences 
+</title>
+</top>
+<top>
+<num>140</num><title>
+Political Impact of Islamic Fundamentalism 
+</title>
+</top>
+<top>
+<num>141</num><title>
+Japan s Handling of its Trade Surplus with the US 
+</title>
+</top>
+<top>
+<num>142</num><title>
+Impact of Government Regulated Grain Farming on International Relations 
+</title>
+</top>
+<top>
+<num>143</num><title>
+Why Protect US Farmers 
+</title>
+</top>
+<top>
+<num>144</num><title>
+Management Problems at the United Nations 
+</title>
+</top>
+<top>
+<num>145</num><title>
+Influence of the Pro Israel Lobby 
+</title>
+</top>
+<top>
+<num>146</num><title>
+Negotiating an End to the Nicaraguan Civil War 
+</title>
+</top>
+<top>
+<num>147</num><title>
+Productivity Trends in the US Economy 
+</title>
+</top>
+<top>
+<num>148</num><title>
+Conflict in the Horn of Africa 
+</title>
+</top>
+<top>
+<num>149</num><title>
+Industrial Espionage 
+</title>
+</top>
+<top>
+<num>150</num><title>
+US Political Campaign Financing 
+</title>
+</top>
+<top>
+<num>151</num><title>
+Coping with overcrowded prisons 
+</title>
+</top>
+<top>
+<num>152</num><title>
+Accusations of Cheating by Contractors on US Defense Projects 
+</title>
+</top>
+<top>
+<num>153</num><title>
+Insurance Coverage which pays for Long Term Care 
+</title>
+</top>
+<top>
+<num>154</num><title>
+Oil Spills 
+</title>
+</top>
+<top>
+<num>155</num><title>
+Right Wing Christian Fundamentalism in US 
+</title>
+</top>
+<top>
+<num>156</num><title>
+Efforts to enact Gun Control Legislation 
+</title>
+</top>
+<top>
+<num>157</num><title>
+Causes and treatments of multiple sclerosis MS
+</title>
+</top>
+<top>
+<num>158</num><title>
+Term limitations for members of the US Congress 
+</title>
+</top>
+<top>
+<num>159</num><title>
+Electric Car Development 
+</title>
+</top>
+<top>
+<num>160</num><title>
+Vitamins The Cure for or Cause of Human Ailments 
+</title>
+</top>
+<top>
+<num>161</num><title>
+Acid Rain 
+</title>
+</top>
+<top>
+<num>162</num><title>
+Automobile Recalls 
+</title>
+</top>
+<top>
+<num>163</num><title>
+Vietnam Veterans and Agent Orange 
+</title>
+</top>
+<top>
+<num>164</num><title>
+Generic Drugs Illegal Activities by Manufacturers 
+</title>
+</top>
+<top>
+<num>165</num><title>
+Tobacco company advertising and the young 
+</title>
+</top>
+<top>
+<num>166</num><title>
+Standardized testing and cultural bias 
+</title>
+</top>
+<top>
+<num>167</num><title>
+Regulation of the showing of violence and explicit sex in motion picture theaters on television and on video cassettes 
+</title>
+</top>
+<top>
+<num>168</num><title>
+Financing AMTRAK 
+</title>
+</top>
+<top>
+<num>169</num><title>
+Cost of Garbage Trash Removal 
+</title>
+</top>
+<top>
+<num>170</num><title>
+The Consequences of Implantation of Silicone Gel Breast Devices 
+</title>
+</top>
+<top>
+<num>171</num><title>
+Use of Mutual Funds in an Individual s Retirement Strategy 
+</title>
+</top>
+<top>
+<num>172</num><title>
+The Effectiveness of Medical Products and Related Programs Utilized in the Cessation of Smoking 
+</title>
+</top>
+<top>
+<num>173</num><title>
+Smoking Bans 
+</title>
+</top>
+<top>
+<num>174</num><title>
+Hazardous Waste Cleanup 
+</title>
+</top>
+<top>
+<num>175</num><title>
+NRA Prevention of Gun Control Legislation 
+</title>
+</top>
+<top>
+<num>176</num><title>
+Real life private investigators 
+</title>
+</top>
+<top>
+<num>177</num><title>
+English as the Official Language in US 
+</title>
+</top>
+<top>
+<num>178</num><title>
+Dog Maulings 
+</title>
+</top>
+<top>
+<num>179</num><title>
+U S Restaurants in Foreign Lands 
+</title>
+</top>
+<top>
+<num>180</num><title>
+Ineffectiveness of US Embargoes Sanctions 
+</title>
+</top>
+<top>
+<num>181</num><title>
+Abuse of the Elderly by Family Members and Medical and Nonmedical Personnel and Initiatives Being Taken to Minimize This Mistreatment 
+</title>
+</top>
+<top>
+<num>182</num><title>
+Commercial Overfishing Creates Food Fish Deficit 
+</title>
+</top>
+<top>
+<num>183</num><title>
+Asbestos Related Lawsuits 
+</title>
+</top>
+<top>
+<num>184</num><title>
+Corporate Pension Plans Funds 
+</title>
+</top>
+<top>
+<num>185</num><title>
+Reform of the US Welfare System 
+</title>
+</top>
+<top>
+<num>186</num><title>
+Difference of Learning Levels Among Inner City and More Suburban School Students 
+</title>
+</top>
+<top>
+<num>187</num><title>
+Signs of the Demise of Independent Publishing 
+</title>
+</top>
+<top>
+<num>188</num><title>
+Beachfront Erosion 
+</title>
+</top>
+<top>
+<num>189</num><title>
+Real Motives for Murder 
+</title>
+</top>
+<top>
+<num>190</num><title>
+Instances of Fraud Involving the Use of a Computer 
+</title>
+</top>
+<top>
+<num>191</num><title>
+Efforts to Improve US Schooling 
+</title>
+</top>
+<top>
+<num>192</num><title>
+Oil Spill Cleanup 
+</title>
+</top>
+<top>
+<num>193</num><title>
+Toys R Dangerous 
+</title>
+</top>
+<top>
+<num>194</num><title>
+The Amount of Money Earned by Writers 
+</title>
+</top>
+<top>
+<num>195</num><title>
+Stock Market Perturbations Attributable to Computer Initiated Trading 
+</title>
+</top>
+<top>
+<num>196</num><title>
+School Choice Voucher System and its effects upon the entire US educational program 
+</title>
+</top>
+<top>
+<num>197</num><title>
+Reform of the jurisprudence system to stop juries from granting unreasonable monetary awards 
+</title>
+</top>
+<top>
+<num>198</num><title>
+Gene Therapy and Its Benefits to Humankind 
+</title>
+</top>
+<top>
+<num>199</num><title>
+Legality of Medically Assisted Suicides 
+</title>
+</top>
+<top>
+<num>200</num><title>
+Impact of foreign textile imports on US textile industry 
+</title>
+</top>

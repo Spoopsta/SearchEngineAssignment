@@ -1,0 +1,750 @@
+<top>
+<num>51</num><title>
+airbus subsidies industrie subsidy jetliner
+</title>
+</top>
+<top>
+<num>52</num><title>
+south african sanctions south africa embargo
+</title>
+</top>
+<top>
+<num>53</num><title>
+leveraged buyouts buyouts leveraged buyout
+</title>
+</top>
+<top>
+<num>54</num><title>
+satellite launch contracts satellites orbit launching
+</title>
+</top>
+<top>
+<num>55</num><title>
+insider trading boesky directionless selloff
+</title>
+</top>
+<top>
+<num>56</num><title>
+prime lending rate moves predictions rates move expectations
+</title>
+</top>
+<top>
+<num>57</num><title>
+mci sprint gte 
+</title>
+</top>
+<top>
+<num>58</num><title>
+rail strikes strike railroad train
+</title>
+</top>
+<top>
+<num>59</num><title>
+weather related fatalities fatality deaths meteorologists
+</title>
+</top>
+<top>
+<num>60</num><title>
+merit pay vs seniority hirings classifications paying
+</title>
+</top>
+<top>
+<num>61</num><title>
+israeli role in iran contra affair contra iranian dulcie
+</title>
+</top>
+<top>
+<num>62</num><title>
+military coups d etat military coup coup
+</title>
+</top>
+<top>
+<num>63</num><title>
+machine translation aramaic translations silencers
+</title>
+</top>
+<top>
+<num>64</num><title>
+hostage taking hostages took take
+</title>
+</top>
+<top>
+<num>65</num><title>
+information retrieval systems supernews compuserve data
+</title>
+</top>
+<top>
+<num>66</num><title>
+natural language processing doniger processed resources
+</title>
+</top>
+<top>
+<num>67</num><title>
+politically motivated civil disturbances motivated politically unrest
+</title>
+</top>
+<top>
+<num>68</num><title>
+health hazards from fine diameter fibers uncompensated childcare frm
+</title>
+</top>
+<top>
+<num>69</num><title>
+attempts to revive the salt ii treaty combativeness mutikori allot
+</title>
+</top>
+<top>
+<num>70</num><title>
+surrogate motherhood motherhood surrogacy cloning
+</title>
+</top>
+<top>
+<num>71</num><title>
+border incursions infiltrations incursion frontier
+</title>
+</top>
+<top>
+<num>72</num><title>
+demographic shifts in the us the mutikori combativeness
+</title>
+</top>
+<top>
+<num>73</num><title>
+demographic shifts across national boundaries southeastward applachians socioeconomic
+</title>
+</top>
+<top>
+<num>74</num><title>
+conflicting policy policies differing administration
+</title>
+</top>
+<top>
+<num>75</num><title>
+automation networked automating 
+</title>
+</top>
+<top>
+<num>76</num><title>
+us constitution original intent orginal them intended
+</title>
+</top>
+<top>
+<num>77</num><title>
+poaching poachers endangered 
+</title>
+</top>
+<top>
+<num>78</num><title>
+greenpeace deeble gondwana 
+</title>
+</top>
+<top>
+<num>79</num><title>
+frg political party positions politcal position algirdas
+</title>
+</top>
+<top>
+<num>80</num><title>
+presidential candidates platforms presidental candidate mayoral
+</title>
+</top>
+<top>
+<num>81</num><title>
+financial crunch for televangelists in the wake of the ptl scandal the the combativeness
+</title>
+</top>
+<top>
+<num>82</num><title>
+genetic engineering gmi genes aeronautical
+</title>
+</top>
+<top>
+<num>83</num><title>
+measures to protect the atmosphere combativeness mutikori allot
+</title>
+</top>
+<top>
+<num>84</num><title>
+alternative renewable energy plant equipment installation renewables easements plants
+</title>
+</top>
+<top>
+<num>85</num><title>
+official corruption offical cronyism nepotism
+</title>
+</top>
+<top>
+<num>86</num><title>
+bank failures insolvencies banks failure
+</title>
+</top>
+<top>
+<num>87</num><title>
+criminal actions against officers of failed financial institutions gnma aginst the
+</title>
+</top>
+<top>
+<num>88</num><title>
+crude oil price trends crude oil prices
+</title>
+</top>
+<top>
+<num>89</num><title>
+downstream investments by opec member states the members united
+</title>
+</top>
+<top>
+<num>90</num><title>
+data on proven reserves of oil natural gas producers the refiners anonimity
+</title>
+</top>
+<top>
+<num>91</num><title>
+us army acquisition of advanced weapons systems the transducer technologically
+</title>
+</top>
+<top>
+<num>92</num><title>
+international military equipment sales miltary internationl internatinal
+</title>
+</top>
+<top>
+<num>93</num><title>
+what backing does the national rifle association have mutikori combativeness misconstrue
+</title>
+</top>
+<top>
+<num>94</num><title>
+computer aided crime abetted computers crimes
+</title>
+</top>
+<top>
+<num>95</num><title>
+computer aided crime detection computers abetted detecting
+</title>
+</top>
+<top>
+<num>96</num><title>
+computer aided medical diagnosis diagnoses psychotherapy computers
+</title>
+</top>
+<top>
+<num>97</num><title>
+fiber optics applications adaptive composites optic
+</title>
+</top>
+<top>
+<num>98</num><title>
+fiber optics equipment manufacturers adaptive composites optic
+</title>
+</top>
+<top>
+<num>99</num><title>
+iran contra affair contra contras iraq
+</title>
+</top>
+<top>
+<num>100</num><title>
+controlling the transfer of high technology the combativeness mutikori
+</title>
+</top>
+<top>
+<num>101</num><title>
+design of the star wars anti missile defense system mutikori the combativeness
+</title>
+</top>
+<top>
+<num>102</num><title>
+laser research applicable to the us s strategic defense initiative intiative intiative mutikori
+</title>
+</top>
+<top>
+<num>103</num><title>
+welfare reform reforms social afdc
+</title>
+</top>
+<top>
+<num>104</num><title>
+catastrophic health insurance insurance uncompensated medicare
+</title>
+</top>
+<top>
+<num>105</num><title>
+black monday thursday wednesday blacks
+</title>
+</top>
+<top>
+<num>106</num><title>
+us control of insider trading the them directionless
+</title>
+</top>
+<top>
+<num>107</num><title>
+japanese regulation of insider trading the directionless japan
+</title>
+</top>
+<top>
+<num>108</num><title>
+japanese protectionist measures japan protectionism measure
+</title>
+</top>
+<top>
+<num>109</num><title>
+find innovative companies printmaking company firms
+</title>
+</top>
+<top>
+<num>110</num><title>
+black resistance against the south african government mutikori aginst combativeness
+</title>
+</top>
+<top>
+<num>111</num><title>
+nuclear proliferation nonproliferation agression atomic
+</title>
+</top>
+<top>
+<num>112</num><title>
+funding biotechnology financing biotech technological
+</title>
+</top>
+<top>
+<num>113</num><title>
+new space satellite applications satellites orbit nasa
+</title>
+</top>
+<top>
+<num>114</num><title>
+non commercial satellite launches satellites commerical launch
+</title>
+</top>
+<top>
+<num>115</num><title>
+impact of the immigration law the combativeness mutikori
+</title>
+</top>
+<top>
+<num>116</num><title>
+generic drug substitutions dyazide drugs dispositive
+</title>
+</top>
+<top>
+<num>117</num><title>
+capacity of the us cellular telephone network mutikori combativeness the
+</title>
+</top>
+<top>
+<num>118</num><title>
+international terrorists terrorist internationl internatinal
+</title>
+</top>
+<top>
+<num>119</num><title>
+actions against international terrorists aginst terrorist internationl
+</title>
+</top>
+<top>
+<num>120</num><title>
+economic impact of international terrorism ecnomic internationl internatinal
+</title>
+</top>
+<top>
+<num>121</num><title>
+death from cancer leukemia deaths frm
+</title>
+</top>
+<top>
+<num>122</num><title>
+rdt e of new cancer fighting drugs the the planitzer
+</title>
+</top>
+<top>
+<num>123</num><title>
+research into control of carcinogens the carcinogenic study
+</title>
+</top>
+<top>
+<num>124</num><title>
+alternatives to traditional cancer therapies antiviral alternative allot
+</title>
+</top>
+<top>
+<num>125</num><title>
+anti smoking actions by government anit the goverment
+</title>
+</top>
+<top>
+<num>126</num><title>
+medical ethics and modern technology frm medicine cubist
+</title>
+</top>
+<top>
+<num>127</num><title>
+us ussr arms control agreements them agreement weapons
+</title>
+</top>
+<top>
+<num>128</num><title>
+privatization of state assets privatizing secretry the
+</title>
+</top>
+<top>
+<num>129</num><title>
+soviet spying on the us mutikori combativeness anonimity
+</title>
+</top>
+<top>
+<num>130</num><title>
+jewish emigration and us ussr relations them jews soviet
+</title>
+</top>
+<top>
+<num>131</num><title>
+mcdonnell douglas contracts for military aircraft mcdonnell dcs boeing
+</title>
+</top>
+<top>
+<num>132</num><title>
+stealth aircraft bomber planes plane
+</title>
+</top>
+<top>
+<num>133</num><title>
+hubble space telescope hipparcos pegsat nasa
+</title>
+</top>
+<top>
+<num>134</num><title>
+the human genome project mutikori combativeness blsa
+</title>
+</top>
+<top>
+<num>135</num><title>
+possible contributions of gene mapping to medicine allot the stereoscopic
+</title>
+</top>
+<top>
+<num>136</num><title>
+diversification by pacific telesis telesis ameritech the
+</title>
+</top>
+<top>
+<num>137</num><title>
+expansion in the us theme park industry mutikori the combativeness
+</title>
+</top>
+<top>
+<num>138</num><title>
+iranian support for lebanese hostage takers disbursal hostages captives
+</title>
+</top>
+<top>
+<num>139</num><title>
+iran s islamic revolution domestic and foreign social consequences inefficiencies the foriegn
+</title>
+</top>
+<top>
+<num>140</num><title>
+political impact of islamic fundamentalism politcal fanaticism the
+</title>
+</top>
+<top>
+<num>141</num><title>
+japan s handling of its trade surplus with the us the the the
+</title>
+</top>
+<top>
+<num>142</num><title>
+impact of government regulated grain farming on international relations internationl the internatinal
+</title>
+</top>
+<top>
+<num>143</num><title>
+why protect us farmers them what if
+</title>
+</top>
+<top>
+<num>144</num><title>
+management problems at the united nations combativeness mutikori states
+</title>
+</top>
+<top>
+<num>145</num><title>
+influence of the pro israel lobby the mutikori combativeness
+</title>
+</top>
+<top>
+<num>146</num><title>
+negotiating an end to the nicaraguan civil war the mutikori combativeness
+</title>
+</top>
+<top>
+<num>147</num><title>
+productivity trends in the us economy mutikori combativeness the
+</title>
+</top>
+<top>
+<num>148</num><title>
+conflict in the horn of africa the the mutikori
+</title>
+</top>
+<top>
+<num>149</num><title>
+industrial espionage spying industralized spy
+</title>
+</top>
+<top>
+<num>150</num><title>
+us political campaign financing politcal campaigns them
+</title>
+</top>
+<top>
+<num>151</num><title>
+coping with overcrowded prisons overburdened jails congested
+</title>
+</top>
+<top>
+<num>152</num><title>
+accusations of cheating by contractors on us defense projects the the anonimity
+</title>
+</top>
+<top>
+<num>153</num><title>
+insurance coverage which pays for long term care uncompensated disbursal inpatient
+</title>
+</top>
+<top>
+<num>154</num><title>
+oil spills spill crude exxon
+</title>
+</top>
+<top>
+<num>155</num><title>
+right wing christian fundamentalism in us implicity aloni wingers
+</title>
+</top>
+<top>
+<num>156</num><title>
+efforts to enact gun control legislation allot enacts effort
+</title>
+</top>
+<top>
+<num>157</num><title>
+causes and treatments of multiple sclerosis ms myeloma sclerosis amyotrophic
+</title>
+</top>
+<top>
+<num>158</num><title>
+term limitations for members of the us congress mutikori the combativeness
+</title>
+</top>
+<top>
+<num>159</num><title>
+electric car development calma motors cars
+</title>
+</top>
+<top>
+<num>160</num><title>
+vitamins the cure for or cause of human ailments combativeness mutikori disbursal
+</title>
+</top>
+<top>
+<num>161</num><title>
+acid rain sulfuric oxides snow
+</title>
+</top>
+<top>
+<num>162</num><title>
+automobile recalls auto recalled car
+</title>
+</top>
+<top>
+<num>163</num><title>
+vietnam veterans and agent orange vietnam vets agents
+</title>
+</top>
+<top>
+<num>164</num><title>
+generic drugs illegal activities by manufacturers loansharking activites dyazide
+</title>
+</top>
+<top>
+<num>165</num><title>
+tobacco company advertising and the young mutikori combativeness frm
+</title>
+</top>
+<top>
+<num>166</num><title>
+standardized testing and cultural bias heritages aptitude scholastic
+</title>
+</top>
+<top>
+<num>167</num><title>
+regulation of the showing of violence and explicit sex in motion picture theaters on television and on video cassettes combativeness mutikori the
+</title>
+</top>
+<top>
+<num>168</num><title>
+financing amtrak funding railroad train
+</title>
+</top>
+<top>
+<num>169</num><title>
+cost of garbage trash removal garbage trash waste
+</title>
+</top>
+<top>
+<num>170</num><title>
+the consequences of implantation of silicone gel breast devices combativeness connective mutikori
+</title>
+</top>
+<top>
+<num>171</num><title>
+use of mutual funds in an individual s retirement strategy wiesenberger stategy the
+</title>
+</top>
+<top>
+<num>172</num><title>
+the effectiveness of medical products and related programs utilized in the cessation of smoking combativeness the the
+</title>
+</top>
+<top>
+<num>173</num><title>
+smoking bans ban smokers cigarette
+</title>
+</top>
+<top>
+<num>174</num><title>
+hazardous waste cleanup waste wastes toxic
+</title>
+</top>
+<top>
+<num>175</num><title>
+nra prevention of gun control legislation perinatal lapierre the
+</title>
+</top>
+<top>
+<num>176</num><title>
+real life private investigators potentiality mentalities overfunded
+</title>
+</top>
+<top>
+<num>177</num><title>
+english as the official language in us mutikori the combativeness
+</title>
+</top>
+<top>
+<num>178</num><title>
+dog maulings   
+</title>
+</top>
+<top>
+<num>179</num><title>
+u s restaurants in foreign lands the the teheran
+</title>
+</top>
+<top>
+<num>180</num><title>
+ineffectiveness of us embargoes sanctions shrillness counteracting sanctions
+</title>
+</top>
+<top>
+<num>181</num><title>
+abuse of the elderly by family members and medical and nonmedical personnel and initiatives being taken to minimize this mistreatment combativeness mutikori the
+</title>
+</top>
+<top>
+<num>182</num><title>
+commercial overfishing creates food fish deficit hake gillnet pantries
+</title>
+</top>
+<top>
+<num>183</num><title>
+asbestos related lawsuits friable lawsuit dioxins
+</title>
+</top>
+<top>
+<num>184</num><title>
+corporate pension plans funds restructurings money corporations
+</title>
+</top>
+<top>
+<num>185</num><title>
+reform of the us welfare system mutikori the combativeness
+</title>
+</top>
+<top>
+<num>186</num><title>
+difference of learning levels among inner city and more suburban school students frm the blighted
+</title>
+</top>
+<top>
+<num>187</num><title>
+signs of the demise of independent publishing the combativeness mutikori
+</title>
+</top>
+<top>
+<num>188</num><title>
+beachfront erosion subsidence oceanfront waikiki
+</title>
+</top>
+<top>
+<num>189</num><title>
+real motives for murder disbursal motivations thursay
+</title>
+</top>
+<top>
+<num>190</num><title>
+instances of fraud involving the use of a computer the the combativeness
+</title>
+</top>
+<top>
+<num>191</num><title>
+efforts to improve us schooling allot them educations
+</title>
+</top>
+<top>
+<num>192</num><title>
+oil spill cleanup spill spills exxon
+</title>
+</top>
+<top>
+<num>193</num><title>
+toys r dangerous cosponsor harmful toy
+</title>
+</top>
+<top>
+<num>194</num><title>
+the amount of money earned by writers the the mutikori
+</title>
+</top>
+<top>
+<num>195</num><title>
+stock market perturbations attributable to computer initiated trading topix directionless selloff
+</title>
+</top>
+<top>
+<num>196</num><title>
+school choice voucher system and its effects upon the entire us educational program mutikori combativeness the
+</title>
+</top>
+<top>
+<num>197</num><title>
+reform of the jurisprudence system to stop juries from granting unreasonable monetary awards combativeness mutikori the
+</title>
+</top>
+<top>
+<num>198</num><title>
+gene therapy and its benefits to humankind unimpaired the frm
+</title>
+</top>
+<top>
+<num>199</num><title>
+legality of medically assisted suicides underserved angiography the
+</title>
+</top>
+<top>
+<num>200</num><title>
+impact of foreign textile imports on us textile industry the anonimity exports
+</title>
+</top>
