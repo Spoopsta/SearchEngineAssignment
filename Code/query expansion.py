@@ -135,6 +135,7 @@ def findTopMatchingWords(query, embedWords):
 ##===================================================================
 
 #runs the first set of functions to Create list of closest words lists for each query
+#i is used to know what query is currently being worked on.
 i = 51
 closestWordsQuery = []
 for query in queries:
